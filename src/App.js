@@ -1,12 +1,7 @@
 import './App.css';
 import Income from './screens/Income';
 import { useState } from 'react';
-import {
-  Routes,
-  Route,
-  BrowserRouter as Router,
-  useNavigate,
-} from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import { HiMenuAlt2 } from 'react-icons/hi';
 import Drawer from './components/Drawer';
 import MonthlySummary from './screens/MonthlySummary';

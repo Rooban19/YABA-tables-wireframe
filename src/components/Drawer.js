@@ -2,7 +2,6 @@ import React from 'react';
 import Drawer from '@mui/material/Drawer';
 import '../styles/drawer.css';
 import Divider from '@mui/material/Divider';
-import { useState } from 'react';
 import { GrClose } from 'react-icons/gr';
 import { useNavigate } from 'react-router-dom';
 
