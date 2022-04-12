@@ -1,0 +1,21 @@
+.container {
+  background-color: #f2f0ff;
+  height: 100%;
+  width: 300px;
+  padding: 20px;
+}
+
+.title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row {
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+.icon{
+    margin: 10px;
+}
