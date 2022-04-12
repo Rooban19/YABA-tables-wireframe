@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/YABA-tables-wireframe/static/css/main.571468b2.css",
+    "main.js": "/YABA-tables-wireframe/static/js/main.ffcfaecc.js",
+    "static/js/498.31ab699e.chunk.js": "/YABA-tables-wireframe/static/js/498.31ab699e.chunk.js",
+    "static/js/703.130ac04c.chunk.js": "/YABA-tables-wireframe/static/js/703.130ac04c.chunk.js",
+    "static/js/38.dbd8ac13.chunk.js": "/YABA-tables-wireframe/static/js/38.dbd8ac13.chunk.js",
+    "static/js/787.e7e2f5ae.chunk.js": "/YABA-tables-wireframe/static/js/787.e7e2f5ae.chunk.js",
+    "index.html": "/YABA-tables-wireframe/index.html",
+    "main.571468b2.css.map": "/YABA-tables-wireframe/static/css/main.571468b2.css.map",
+    "main.ffcfaecc.js.map": "/YABA-tables-wireframe/static/js/main.ffcfaecc.js.map",
+    "498.31ab699e.chunk.js.map": "/YABA-tables-wireframe/static/js/498.31ab699e.chunk.js.map",
+    "703.130ac04c.chunk.js.map": "/YABA-tables-wireframe/static/js/703.130ac04c.chunk.js.map",
+    "38.dbd8ac13.chunk.js.map": "/YABA-tables-wireframe/static/js/38.dbd8ac13.chunk.js.map",
+    "787.e7e2f5ae.chunk.js.map": "/YABA-tables-wireframe/static/js/787.e7e2f5ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.571468b2.css",
+    "static/js/main.ffcfaecc.js"
+  ]
+}
